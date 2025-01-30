@@ -1,5 +1,5 @@
 ## RECURSIVE PUSH_SWAP
-- By chdonnat (Christophe Donnat from 42 Perpignan, France)
+By chdonnat (Christophe Donnat from 42 Perpignan, France)
 
 A fun and unconventional alternative for the push_swap project, implemented using three recursive functions.
 
